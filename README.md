@@ -1,19 +1,26 @@
+# Trybe - Exercícios
+
+Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/joaopedroramoss/)__ durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
+
+>"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
+
+
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### [Bloco 1: Introdução - Unix & Bash](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+##### Bloco 1: Introdução - Unix & Bash
 
 - [X] 1-3: _Fundamentos do Desenvolvimento Web_
 - [X] 1-3: _Introdução - Unix & Shell_
 - [X] 1-3: _Unix & Bash - Part 1_
 - [X] 1-4: _Unix & Bash - Part 2_
 
-##### [Bloco 2: Git, GitHub e Internet](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+##### Bloco 2: Git, GitHub e Internet
 
 - [X] 2-1: _Git & GitHub - O que é e para que serve?_
 - [X] 2-2: _Git & GitHub - Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### [Bloco 3: Introdução à HTML & CSS](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+##### Bloco 3: Introdução à HTML & CSS
 
 - [X] 3-1: _Introdução - HTML & CSS_
 - [X] 3-1: _HTML & CSS - Estruturas de página_
@@ -22,7 +29,7 @@
 - [X] 3-4: _HTML Semântico_
 - [X] 3-5: _[Projeto - Lessons Learned])_
 
-##### [Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
 - [X] 4-1: _Introdução - JavaScript_
 - [X] 4-1: _JavaScript - Primeiros passos_
@@ -31,7 +38,7 @@
 - [X] 4-4: _JavaScript - Objetos e Funções_
 - [X] 4-5: _[Projeto - Playground Functions]()_
 
-##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos/bloco-05-javascript-dom-events-web-storage)
+##### Bloco 5: JavaScrip: DOM, Eventos e Web Storage
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -44,8 +51,7 @@
 - [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
-##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo/dia-1-html-css-forms)
-
+##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [x] 6-3: _CSS Flexbox - Part 1_
