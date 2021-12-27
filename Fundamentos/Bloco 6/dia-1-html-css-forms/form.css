@@ -1,0 +1,18 @@
+fieldset {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#divBotao {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+#botaoEnviar {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
